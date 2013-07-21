@@ -70,7 +70,7 @@ OpenSpending.Styles.Cofog = {
   '1002': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#935B3B' }, // 教育総務費
   '1003': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#935B3B' }, // 小学校費
   '1004': { icon: 'icons/primary.svg', color: '#C75746', bcolor: '#935B3B' }, // 中学校費
-  '1005': { icon: 'icons/child.svg', color: '#C75746', bcolor: '#935B3B' }, // 幼稚園費
+  '1005': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#935B3B' }, // 幼稚園費
   '1006': { icon: 'icons/books.svg', color: '#C75746', bcolor: '#935B3B' }, // 社会教育費
   '1007': { icon: 'icons/sports.svg', color: '#C75746', bcolor: '#935B3B' }, // 保健体育費
   // 災害復旧費

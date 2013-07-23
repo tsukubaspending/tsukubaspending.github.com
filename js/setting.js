@@ -66,13 +66,12 @@ OpenSpending.Styles.Cofog = {
   '901': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#935B3B' }, // 消防費
   // 教育費
   '10': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#935B3B' },
-  '1001': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#935B3B' }, // 教育費
-  '1002': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#935B3B' }, // 教育総務費
-  '1003': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#935B3B' }, // 小学校費
-  '1004': { icon: 'icons/primary.svg', color: '#C75746', bcolor: '#935B3B' }, // 中学校費
-  '1005': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#935B3B' }, // 幼稚園費
-  '1006': { icon: 'icons/books.svg', color: '#C75746', bcolor: '#935B3B' }, // 社会教育費
-  '1007': { icon: 'icons/sports.svg', color: '#C75746', bcolor: '#935B3B' }, // 保健体育費
+  '1001': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#935B3B' }, // 教育総務費
+  '1002': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#935B3B' }, // 小学校費
+  '1003': { icon: 'icons/primary.svg', color: '#C75746', bcolor: '#935B3B' }, // 中学校費
+  '1004': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#935B3B' }, // 幼稚園費
+  '1005': { icon: 'icons/books.svg', color: '#C75746', bcolor: '#935B3B' }, // 社会教育費
+  '1006': { icon: 'icons/sports.svg', color: '#C75746', bcolor: '#935B3B' }, // 保健体育費
   // 災害復旧費
   '11': { icon: 'icons/aid-developing-countries.svg', color: '#C75746', bcolor: '#935B3B' },
   '1101': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#935B3B' }, // 農林水産施設
